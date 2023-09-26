@@ -9,7 +9,7 @@ This code will perform CRUD operation with REST API, while docker as the hosting
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/MSShoeb16/CRUD.git
 ```
 
 Go to the project directory
